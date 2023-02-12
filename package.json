@@ -1,0 +1,15 @@
+{
+  "name": "kikz",
+  "version": "1.0.0",
+  "description": "Sneaker Store for Genz",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/main.css -w"
+  },
+  "author": "Krishnesh Chaurasia",
+  "license": "ISC",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "node-sass": "^8.0.0"
+  }
+}
