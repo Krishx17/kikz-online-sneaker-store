@@ -2,7 +2,7 @@
 	grid-template-rows: 85vh 15vh;
 
 	&__primary {
-		background: url("../images/img-comp/carousel1.png") 0% 70% no-repeat;
+		background: url("../images/img-comp/carousel1.jpg") 0% 20% no-repeat;
 		background-size: cover;
 		position: relative;
 	}
@@ -54,7 +54,7 @@
 		}
 
 		&__primary {
-			background-image: linear-gradient(to right, rgba($black, 0.6), rgba($black, 0.6)), url("../images/img-comp/carousel1.png");
+			background-image: linear-gradient(to right, rgba($black, 0.6), rgba($black, 0.6)), url("../images/img-comp/carousel1.jpg");
 			background-position: 50% 70%;
 			background-size: cover;
 		}
