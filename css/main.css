@@ -470,7 +470,7 @@ a {
   .nav__wrapper {
     align-items: center; }
   .nav__logo-img {
-    width: 55%;
+    width: 35%;
     position: relative;
     padding: 1rem 0; }
   .nav__links-wrap {
@@ -626,7 +626,7 @@ a {
 .header {
   grid-template-rows: 85vh 15vh; }
   .header__primary {
-    background: url("../images/img-comp/carousel1.jpg") 0% 20% no-repeat;
+    background: url("../images/img-comp/carousel1.jpg") 0% 45% no-repeat;
     background-size: cover;
     position: relative; }
   .header__primary-content {
@@ -659,7 +659,7 @@ a {
       height: 100%;
       position: relative; }
   .header__secondary-icon {
-    width: 8rem; }
+    width: 4rem; }
   @media (max-width: 56.25em) {
     .header {
       grid-template-rows: 60vh; }
@@ -1061,13 +1061,13 @@ a {
   .timing__card-img--1 {
     width: 24%;
     right: 2rem;
-    bottom: -6rem;
-    transform: rotate(15deg); }
+    bottom: 6rem;
+    transform: rotate(0deg); }
   .timing__card-img--2 {
     width: 25%;
     right: 2rem;
-    bottom: -6rem;
-    transform: rotate(-20deg); }
+    bottom: 6rem;
+    transform: rotate(0deg); }
   .timing__card-img--3 {
     width: 22%;
     right: 8rem;

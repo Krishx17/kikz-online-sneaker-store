@@ -2,7 +2,7 @@
 	grid-template-rows: 85vh 15vh;
 
 	&__primary {
-		background: url("../images/img-comp/carousel1.jpg") 0% 20% no-repeat;
+		background: url("../images/img-comp/carousel1.jpg") 0% 45% no-repeat;
 		background-size: cover;
 		position: relative;
 	}
@@ -45,7 +45,7 @@
 	}
 
 	&__secondary-icon {
-		width: 8rem;
+		width: 4rem;
 	}
 
 	@include respond(tab-port) {
