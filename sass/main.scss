@@ -1,5 +1,5 @@
-@import "abstracts/_mixins";
-@import "abstracts/_variables";
+@import "abstracts/mixins";
+@import "abstracts/variables";
 
 @import "base/_base";
 @import "base/_typography";
@@ -16,15 +16,13 @@
 @import "components/buttons";
 @import "components/dropdown";
 @import "components/card";
-@import "components/food-card";
+@import "components/shoe-card";
 @import "components/timing-banner";
 @import "components/testimonials";
 @import "components/info-banner";
 @import "components/contact";
 @import "components/form";
-@import "components/page-location";
-@import "components/cooking-banner";
-@import "components/login-signup";
-@import "components/login-signup-form";
+
+@import "components/kikz-banner";
 
 @import "theme/inner-pages";

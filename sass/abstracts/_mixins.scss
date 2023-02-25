@@ -22,7 +22,7 @@
     // ORDER: Base + Typography > General layout + grid > page layout > components
 */
 
-@mixin clearfix {
+@mixin clearfix{
     &::after{
 
         // The content property is used with the ::before and ::after pseudo-elements, to insert generated content.
@@ -45,7 +45,7 @@
     }
 }
 
-@mixin v-center {
+@mixin v-center{
     & {
         position: absolute;
         top: 50%;

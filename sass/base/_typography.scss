@@ -15,7 +15,7 @@ a {
 .heading-primary{
     font-size: 2.8rem;
     color: $black;
-    font-weigth: 700;
+    font-weight: 700;
     text-transform: uppercase;
 
     &--white{
@@ -187,7 +187,7 @@ a {
 	}
 }
 
-.menus{
+.catalog{
 
     &__description--left{
         font-size: 1.4rem;
@@ -198,11 +198,11 @@ a {
     &__description--right{
         text-align: right;
         font-size: 1.4rem;
-        color: $white;
+        color: $black;
     }
 }
 
-.food-items{
+.shoe-items{
     &__heading{
         font-size: 1.6rem;
         font-weight: 500;
